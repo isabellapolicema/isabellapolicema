@@ -2,7 +2,7 @@
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&color=993399&width=540&lines=Olá%2C+eu+sou+a+Isabella!)](https://git.io/typing-svg)
   ## 
-<h4>Ferramentas e linguagens</h4>
+<h4> Ferramentas e linguagens</h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Isa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
