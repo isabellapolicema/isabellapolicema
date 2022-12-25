@@ -1,6 +1,6 @@
 
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&color=993399&width=540&lines=Olá%2C+eu+sou+a+Isabella!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&color=993399&width=540&lines=Hello!)](https://git.io/typing-svg)
 
  <div> 
  <h4>Contatos</h4>
