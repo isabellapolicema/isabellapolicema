@@ -2,8 +2,7 @@
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&color=993399&width=540&lines=Hello!)](https://git.io/typing-svg)
 
-Sou a Isabella, tenho 25 anos e atualmente, estou imersa nos estudos de ciência de dados, expandindo meu conhecimento além da minha experiência prévia como Engenheira Aeroespacial. Ao longo da minha carreira, desenvolvi análises estruturais e acústicas, resolvendo desafios em projetos automotivos, como ruído, vibração e aspereza. Utilizo métodos avançados, como elementos finitos, para oferecer soluções inovadoras. Estou entusiasmada em aplicar essa expertise em projetos de data science, explorando novas possibilidades e contribuindo para soluções impactantes em diversas áreas.
-
+Me chamo Isabella, tenho 25 anos e atualmente estou imersa nos estudos de ciência de dados, ampliando minha expertise para além da engenharia aeroespacial. Durante minha carreira, foquei em análises estruturais e acústicas, resolvendo desafios em projetos automotivos, como ruído, vibração e aspereza. Agora, estou entusiasmada para aplicar essa experiência em projetos de data science, explorando novas possibilidades e contribuindo com soluções inovadoras em diversas áreas.
 
  <div> 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
