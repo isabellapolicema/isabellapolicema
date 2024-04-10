@@ -1,9 +1,7 @@
 
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&color=993399&width=540&lines=Hello!)](https://git.io/typing-svg)
-
 Me chamo Isabella, tenho 25 anos e atualmente estou imersa nos estudos de ciência de dados, ampliando minha expertise para além da engenharia aeroespacial. Durante minha carreira, foquei em análises estruturais e acústicas, resolvendo desafios em projetos automotivos, como ruído, vibração e aspereza. Agora, estou entusiasmada para aplicar essa experiência em projetos de data science, explorando novas possibilidades e contribuindo com soluções inovadoras em diversas áreas.
-
  <div> 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:isabellapolicema@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">  </a>
