@@ -2,6 +2,9 @@
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&color=993399&width=540&lines=Hello!)](https://git.io/typing-svg)
 
+Atualmente, estou imersa nos estudos de ciência de dados, expandindo meu conhecimento além da minha experiência prévia como engenheira aeroespacial. Ao longo da minha carreira, desenvolvi análises estruturais e acústicas, resolvendo desafios em projetos automotivos, como ruído, vibração e aspereza. Utilizo métodos avançados, como elementos finitos, para oferecer soluções inovadoras. Estou entusiasmada em aplicar essa expertise em projetos de data science, explorando novas possibilidades e contribuindo para soluções impactantes em diversas áreas.
+
+
  <div> 
  <h4>Contatos</h4>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
