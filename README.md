@@ -3,11 +3,11 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5500&pause=1000&color=993399&width=540&lines=Hello!)](https://git.io/typing-svg)
 
 Eu sou Isabella! 👋
-Tenho 26 anos, sou natural de Brasília e formada em Engenharia Aeroespacial pela Universidade de Brasília. Atualmente, trabalho como analista de CAE na área de NVH no setor automotivo, onde contribuo para o desenvolvimento de soluções inovadoras para a melhoria do conforto e desempenho acústico dos veículos.
+Tenho 26 anos, sou de Brasília e formada em Engenharia Aeroespacial pela UnB. Trabalho como analista de CAE na área de NVH no setor automotivo, desenvolvendo soluções para melhorar o conforto e o desempenho acústico dos veículos.
 
-Além da minha atuação em CAE, estou explorando a área de Data Science, com um interesse especial em Machine Learning. Estou me aventurando nesse campo com o objetivo de unir minhas habilidades em engenharia com a ciência de dados para resolver problemas complexos de forma mais eficiente.
+Além disso, estou explorando Data Science, com foco em Machine Learning, buscando unir minhas habilidades em engenharia e ciência de dados para resolver problemas de forma mais eficiente.
 
-Aqui, você encontrará alguns dos meus projetos quanto as minhas descobertas no mundo da ciência de dados.
+Aqui você encontra meus projetos e descobertas nesse caminho.
 
  <div> 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
